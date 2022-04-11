@@ -28,7 +28,7 @@ apt upgrade
 
 apt install git
 
-git clone https://github.com/cyberluiz0/NUMBER-REPORTING
+git clone 
 
 cd NUMBER-REPORTING
 
