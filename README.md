@@ -28,7 +28,7 @@ apt upgrade
 
 apt install git
 
-git clone 
+git clone https://github.com/cyberluiz0/NUMBER_BANING
 
 cd NUMBER-REPORTING
 
