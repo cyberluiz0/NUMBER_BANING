@@ -37,8 +37,8 @@ echo '
 ██║  ██║███████╗██║     ╚██████╔╝██║  ██║   ██║           
 ╚═╝  ╚═╝╚══════╝╚═╝      ╚═════╝ ╚═╝  ╚═╝   ╚═╝           
 '
-echo -e "$green DO NOT PLAY WITH THIS TOOL ITS VERY DEANGERS [NUMBER WILL BAN PERMANENT SO BE CARE FULL]
-echo -e "$red Tool coded by luiz poker! \n"
+echo -e "$green DO NOT PLAY WITH THIS TOOL ITS VERY DEANGERS [NUMBER WILL BAN PERMANENT SO BE CARE FULL]  \n"
+echo -e "$red Tool coded by luiz poker!ENJOY YOUR NUMBERS \n"
 echo -e "$rset"
 echo -e "$cyan[1] For WhatsApp Number Reporting and Banning\n[2] For WhatsApp Number bombing\n[3] For Number Otp verification"
 echo -n "[×]Enter Your option:"
