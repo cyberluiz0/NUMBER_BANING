@@ -30,9 +30,9 @@ apt install git
 
 git clone https://github.com/cyberluiz0/NUMBER_BANING
 
-cd NUMBER-REPORTING
+cd NUMBER_BANING
 
-bash report.sh
+bash Report.sh
 ```
 
 
